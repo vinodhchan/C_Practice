@@ -1,19 +1,24 @@
-<<<<<<< HEAD
 # C Programming Practice
 
 This repository contains my C programming practice from beginner to advanced.
 
-## Topics
+## Topics Covered
 
 - Basics
+- Operators
+- Control Statements
+- Functions
 - Arrays
+- Strings
 - Pointers
 - Structures
-- Strings
+- Dynamic Memory Allocation
+- File Handling
+- Bit Manipulation
 - Data Structures
 - Algorithms
 - Embedded C
-=======
-# C_Practice
-C programming all the concepts
->>>>>>> d269657dad80cc93342e95e0330bb585d868df47
+
+## Goal
+
+To master C programming by solving programs, implementing algorithms, and building mini projects.
